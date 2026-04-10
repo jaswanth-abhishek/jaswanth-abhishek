@@ -1,100 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jaswanth Abhishek</h1>
-<h3 align="center">🚀 LLM Engineer | Android Developer | AI Enthusiast</h3>
+# 💫 About Me:
+🔭 I’m currently working on<br><br>LLM Engineering (RAG pipelines, vector databases, prompt engineering) 🤖<br>Building intelligent AI systems using real-world data<br>Projects like Academic Pathway Recommendation System, PetKare, and Voting Ensemble Models<br>Android app development for integrating AI into mobile apps 📱<br><br>👯 I’m looking to collaborate on<br><br>LLM-based applications (RAG, chatbots, AI assistants) 🚀<br>AI/ML real-world projects<br>Android apps with AI integration<br><br>🤝 I’m looking for help with<br><br>Advanced RAG architectures & LLM optimization<br>Deploying scalable AI/LLM systems (production level)<br>Backend + LLM integration<br><br>🌱 I’m currently learning<br><br>LLM Engineering (RAG, embeddings, vector DBs)<br>Advanced Machine Learning & Ensemble Techniques<br>Android Development (Java/Kotlin + APIs)<br><br>💬 Ask me about<br><br>LLMs, RAG pipelines, and AI systems 🤖<br>Python, SQL, and ML basics<br>Android development 📱<br>Projects like Academic Pathway Recommendation System, PetKare, Voting Ensemble<br><br>⚡ Fun fact<br><br>I love building AI systems that solve real-world problems 🤖<br>Turning ideas into apps (AI + Android) is my thing 🚀<br>Balancing coding and fitness daily 💪
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jaswanth__abhishe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/jaswanth__abhishek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaswanth-abhishek-79776a24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaswanthabhishek@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaswanth-abhishek&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jaswanth-abhishek&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-abhishek&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jaswanth-abhishek&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 About Me
-
-- 🔭 Working on **LLM Engineering (RAG, Vector DBs, AI Systems)**  
-- 📱 Building **Android apps integrated with AI**  
-- ⚡ Creating real-world projects like:
-  - Academic Pathway Recommendation System  
-  - PetKare 🐾  
-  - Voting Ensemble Models  
-
----
-
-## 🚀 What I Do
-
-- 🤖 Build **RAG pipelines & AI assistants**
-- 📊 Work with **Machine Learning & Ensemble Models**
-- 📱 Develop **Android Apps (Java/Kotlin + APIs)**
-- 🌐 Integrate **Backend + AI Systems**
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 Advanced **LLM Engineering (RAG, embeddings, vector DBs)**
-- 📊 Advanced ML & Ensemble Techniques
-- 📱 Android Development (APIs, Firebase, UI/UX)
-
----
-
-## 🤝 Looking to Collaborate On
-
-- 🚀 LLM-based apps (Chatbots, AI Assistants)
-- 🤖 AI/ML real-world projects
-- 📱 Android + AI integration projects
-
----
-
-## 💬 Ask Me About
-
-- 🤖 LLMs, RAG pipelines
-- 📊 Python, SQL, ML basics
-- 📱 Android development
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge)
-
-### ⚙️ Tools & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaswanth-abhishek&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-abhishek&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-abhishek&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-abhishek-79776a24b/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaswanth__abhishek)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaswanthabhishek@gmail.com)  
-
----
-
-## 🔥 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=jaswanth-abhishek&icon=5&color=6)
-
----
-
-⭐ *“Building intelligent systems that make real-world impact.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

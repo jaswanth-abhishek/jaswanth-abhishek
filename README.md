@@ -1,5 +1,37 @@
 # 💫 About Me:
-🔭 <b>I’m currently working on</b><br><br>LLM Engineering (RAG pipelines, vector databases, prompt engineering) 🤖<br>Building intelligent AI systems using real-world data<br>Projects like Academic Pathway Recommendation System, PetKare, and Voting Ensemble Models<br>Android app development for integrating AI into mobile apps 📱<br><br>💼 <b>I’m looking to collaborate on</b><br><br>LLM-based applications (RAG, chatbots, AI assistants) 🚀<br>AI/ML real-world projects<br>Android apps with AI integration<br><br>🤝<b> I’m looking for help with</b><br><br>Advanced RAG architectures & LLM optimization<br>Deploying scalable AI/LLM systems (production level)<br>Backend + LLM integration<br><br>🌱<b> I’m currently learning</b><br><br>LLM Engineering (RAG, embeddings, vector DBs)<br>Advanced Machine Learning & Ensemble Techniques<br>Android Development (Kotlin + APIs)<br><br>💬 <b>Ask me about</b><br><br>LLMs, RAG pipelines, and AI systems 🤖<br>Python, SQL, and ML basics<br>Android development 📱<br>Projects like Academic Pathway Recommendation System, PetKare, Voting Ensemble<br><br>
+🔭 <b>I’m currently working on</b><br><br>
+LLM Engineering (RAG pipelines, vector databases, prompt engineering) 🤖<br>
+Building intelligent AI systems using real-world data<br>
+Projects like Academic Pathway Recommendation System, PetKare, and Voting Ensemble Models<br>
+Android app development for integrating AI into mobile apps 📱<br><br>
+
+💼 <b>I’m looking to collaborate on</b><br><br>
+LLM-based applications (RAG, chatbots, AI assistants) 🚀<br>
+AI/ML real-world projects<br>
+Android apps with AI integration<br><br>
+
+🤝<b> I’m looking for help with</b><br><br>
+Advanced RAG architectures & LLM optimization<br>
+Deploying scalable AI/LLM systems (production level)<br>
+Backend + LLM integration<br><br>
+
+🌱<b> I’m currently learning</b><br><br>
+LLM Engineering (RAG, embeddings, vector DBs)<br>
+Advanced Machine Learning & Ensemble Techniques<br>
+Android Development (Kotlin + APIs)<br><br>
+
+💬 <b>Ask me about</b><br><br>
+LLMs, RAG pipelines, and AI systems 🤖<br>
+Python, SQL, and ML basics<br>
+Android development 📱<br>
+Projects like Academic Pathway Recommendation System, PetKare, Voting Ensemble<br><br>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 Achievements & Certifications:
+
+🏅 Solved **175+ problems** on <b>LeetCode</b> 💻<br>
+📜 Certified in <b>DP-900: Microsoft Azure Data Fundamentals</b> ☁️
+
 
 
 ## 🌐 Socials:
@@ -8,4 +40,5 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+

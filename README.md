@@ -30,7 +30,7 @@
 
 # 🏆 Achievements & Certifications
 
-- 🏅 Solved **175+ problems** on =💻
+- 🏅 Solved **175+ problems** on **[Leetcode]** 💻
 - 📜 Certified in **[DP-900: Microsoft Azure Data Fundamentals]** ☁️
 
 

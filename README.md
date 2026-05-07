@@ -1,36 +1,37 @@
-# 💫 About Me:
-🔭 <b>I’m currently working on</b><br><br>
-LLM Engineering (RAG pipelines, vector databases, prompt engineering) 🤖<br>
-Building intelligent AI systems using real-world data<br>
-Projects like Academic Pathway Recommendation System, PetKare, and Voting Ensemble Models<br>
-Android app development for integrating AI into mobile apps 📱<br><br>
+# 💫 About Me
 
-💼 <b>I’m looking to collaborate on</b><br><br>
-LLM-based applications (RAG, chatbots, AI assistants) 🚀<br>
-AI/ML real-world projects<br>
-Android apps with AI integration<br><br>
+🔭 **I’m currently working on:**
+- **LLM Engineering:** Building intelligent AI systems using real-world data, RAG pipelines, vector databases, and prompt engineering 🤖
+- **Android App Development:** Integrating AI into mobile applications 📱
+- **Core Projects:** Academic Pathway Recommendation System, PetKare, and Voting Ensemble Models
 
-🤝<b> I’m looking for help with</b><br><br>
-Advanced RAG architectures & LLM optimization<br>
-Deploying scalable AI/LLM systems (production level)<br>
-Backend + LLM integration<br><br>
+💼 **I’m looking to collaborate on:**
+- LLM-based applications (RAG, chatbots, AI assistants) 🚀
+- Real-world AI/ML deployments
+- Android applications with embedded AI functionality
 
-🌱<b> I’m currently learning</b><br><br>
-LLM Engineering (RAG, embeddings, vector DBs)<br>
-Advanced Machine Learning & Ensemble Techniques<br>
-Android Development (Kotlin + APIs)<br><br>
+🤝 **I’m looking for help with:**
+- Advanced RAG architectures & LLM optimization
+- Deploying scalable AI/LLM systems to production
+- Backend architecture and seamless LLM integration
 
-💬 <b>Ask me about</b><br><br>
-LLMs, RAG pipelines, and AI systems 🤖<br>
-Python, SQL, and ML basics<br>
-Android development 📱<br>
-Projects like Academic Pathway Recommendation System, PetKare, Voting Ensemble<br><br>
+🌱 **I’m currently learning:**
+- LLM Engineering (Embeddings, Vector DBs, Fine-tuning)
+- Advanced Machine Learning & Ensemble Techniques
+- Modern Android Development (Kotlin + REST APIs)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 🏆 Achievements & Certifications:
+💬 **Ask me about:**
+- Building RAG pipelines and intelligent AI systems 🤖
+- Python, SQL, and Machine Learning fundamentals
+- Native Android development 📱
+- My projects: *Academic Pathway Recommendation System*, *PetKare*, and *Voting Ensemble*
 
-🏅 Solved **175+ problems** on <b>LeetCode</b> 💻<br>
-📜 Certified in <b>DP-900: Microsoft Azure Data Fundamentals</b> ☁️
+---
+
+# 🏆 Achievements & Certifications
+
+- 🏅 Solved **175+ problems** on =💻
+- 📜 Certified in **[DP-900: Microsoft Azure Data Fundamentals]** ☁️
 
 
 
